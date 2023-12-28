@@ -13,3 +13,6 @@ A ready-for-print schedule binder inspired by Bullet Journal.
 2. Visio Format: Yearly Blueprint, Monthly Calendar, Monthly Log(Gantt Chart).
 3. Spreadsheet Format: Weekly Tracking Sheet with both current version and past versions.
 4. The integrated binder of the completed schedule book is only in PDF format.
+
+## Print Layout Suggestion:
+You can always print all the sections in A4 paper, however, if you are looking for something like a neat little notebook like me, you can print all the landscape layout versions in A4 and then fold them in half, which is exactly the A5 size.
