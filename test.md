@@ -1,0 +1,2 @@
+here is an issue: the html generated displayed in the raw md file style, which means markdown symbols such as **, # have been displayed as they are on the html,        
+which is not the intended result. I need a html 
