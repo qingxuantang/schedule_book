@@ -137,7 +137,14 @@ D7      Welcome Sequence                 ✅ STATUS: _____
 ───────────────────────────────────────────────────────────────────────
 ⚙️ OPERATIONS TRACK | 运营轨道
 ───────────────────────────────────────────────────────────────────────
-D1-7    Daily Routine Setup              ✅ STATUS: _____
+D1-2    🔒 IP Protection Foundation      ✅ STATUS: _____
+        🔒 知识产权保护基础
+        └─> Add © 2025 copyright to ALL materials
+        └─> Search USPTO for "4to1 Method" trademark
+        └─> Add CC BY-NC-SA 4.0 to GitHub
+        └─> Document trade secrets
+
+D3-7    Daily Routine Setup              ✅ STATUS: _____
         每日例行程序设置
         └─> Morning checklist
         └─> Afternoon tasks
@@ -240,12 +247,19 @@ D11-14  Pre-Launch Email List            ✅ STATUS: _____
 ───────────────────────────────────────────────────────────────────────
 ⚙️ OPERATIONS TRACK | 运营轨道
 ───────────────────────────────────────────────────────────────────────
-D8-14   N8n Automation Dev               ✅ STATUS: _____
+D8-13   N8n Automation Dev               ✅ STATUS: _____
         N8n自动化开发
         └─> Content curation workflow
         └─> API connections
         └─> Test automation
         └─> Set approval queue
+
+D14     🔒 IP CRITICAL FILINGS           ✅ STATUS: _____
+        🔒 知识产权关键申请
+        └─> FILE USPTO trademark "4to1 Method"
+        └─> Register domain: 4to1.com/4to1planner.com
+        └─> File US Copyright ($65)
+        └─> Terms of Service & Privacy Policy
 
 ═══════════════════════════════════════════════════════════════════════
 ```
@@ -514,12 +528,19 @@ D29-35  Automation Scaling               ✅ STATUS: _____
         └─> Email automation
         └─> Social scheduling
 
-D36-45  Mid-Phase Review                 ✅ STATUS: _____
+D36-44  Mid-Phase Review                 ✅ STATUS: _____
         中期回顾
         └─> Revenue: $1,500-2,500?
         └─> Email list: 300-500?
         └─> Customers: 30-50?
         └─> Adjust strategy
+
+D45     🔒 Business Entity Protection    ✅ STATUS: _____
+        🔒 商业实体保护
+        └─> Form LLC ($300-800)
+        └─> Get EIN from IRS (free)
+        └─> Business bank account
+        └─> Set up Google Alerts for brand monitoring
 
 ═══════════════════════════════════════════════════════════════════════
 ```
@@ -653,6 +674,7 @@ D46-60  Fulfillment Systems              ✅ STATUS: _____
         └─> Physical product shipping
         └─> Digital delivery refinement
         └─> Course access automation
+        └─> 🔒 Check trademark application status
 
 ═══════════════════════════════════════════════════════════════════════
 ```
@@ -907,13 +929,20 @@ D76-80  Metrics Dashboard                ✅ STATUS: _____
         └─> Customer analytics
         └─> Marketing ROI
 
-D81-85  Team Building Plan               ✅ STATUS: _____
+D81-82  Team Building Plan               ✅ STATUS: _____
         团队建设计划
         └─> Hire VA (customer support)
         └─> Freelance designer
         └─> Content writer (optional)
 
-D86-90  90-DAY RETROSPECTIVE             ✅ STATUS: _____
+D83-87  🔒 International IP Protection   ✅ STATUS: _____
+        🔒 国际知识产权保护
+        └─> File China trademark (CNIPA)
+        └─> Madrid Protocol filing (WIPO)
+        └─> Update IP documentation
+        └─> Review brand monitoring alerts
+
+D88-90  90-DAY RETROSPECTIVE             ✅ STATUS: _____
         90天回顾
         └─> Full performance review
         └─> Lessons learned

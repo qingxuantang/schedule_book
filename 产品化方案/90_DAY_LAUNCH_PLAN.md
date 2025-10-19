@@ -89,9 +89,12 @@ Create these SKUs based on what you have:
 - [ ] Create comparison table showing what's in each tier | 创建比较表显示每层内容
 - [ ] Design simple product banners (Canva templates) | 设计简单产品横幅（Canva模板）
 - [ ] Set pricing in USD, EUR, CNY | 设置美元、欧元、人民币价格
+- [ ] **🔒 Add copyright notice "© 2025 [Your Name]" to ALL materials** | **在所有材料上添加版权声明"© 2025 [您的姓名]"**
+- [ ] **🔒 Search USPTO database for "4to1 Method" trademark availability** | **在USPTO数据库搜索"4to1方法"商标可用性**
+- [ ] **🔒 Add Creative Commons CC BY-NC-SA 4.0 license to GitHub repository** | **在GitHub仓库添加知识共享CC BY-NC-SA 4.0许可**
 
-**Deliverable** | **可交付成果**: Product catalog spreadsheet with all SKU details
-包含所有SKU详细信息的产品目录电子表格
+**Deliverable** | **可交付成果**: Product catalog + IP foundation started
+产品目录 + 知识产权保护基础启动
 
 ---
 
@@ -838,9 +841,13 @@ Content Source → Extract → Transform → Generate → Publish
 - [ ] Set up ProductHunt account | 设置ProductHunt账户
 - [ ] Write Reddit launch posts | 撰写Reddit启动帖子
 - [ ] Prepare launch day schedule | 准备启动日日程
+- [ ] **🔒 FILE USPTO TRADEMARK APPLICATION for "4to1 Method"** (Classes 16, 9, 41) | **提交USPTO商标申请"4to1方法"**（类别16、9、41）
+- [ ] **🔒 Register 4to1.com or 4to1planner.com domain** | **注册4to1.com或4to1planner.com域名**
+- [ ] **🔒 File US Copyright registration for complete planner design** ($65) | **为完整规划器设计提交美国版权注册**（65美元）
+- [ ] **🔒 Create Terms of Service and Privacy Policy pages** | **创建服务条款和隐私政策页面**
 
-**Deliverable** | **可交付成果**: Launch-ready business with all systems functional
-启动就绪的业务，所有系统功能正常
+**Deliverable** | **可交付成果**: Launch-ready business + IP protection filed
+启动就绪的业务 + 知识产权保护已申请
 
 ---
 
@@ -1280,8 +1287,36 @@ Best,
 
 ---
 
-## WEEK 7-8 (Days 46-60): Product Expansion
-## 第7-8周（第46-60天）：产品扩展
+## WEEK 7-8 (Days 46-60): Product Expansion & Business Protection
+## 第7-8周（第46-60天）：产品扩展与商业保护
+
+### 🔒 IP Protection Milestone: LLC Formation | 知识产权保护里程碑：有限责任公司成立
+
+**✅ TASK 12.1: Form LLC for Liability Protection** | **任务12.1：成立有限责任公司以保护责任**
+
+**Why This Matters** | **为什么这很重要**:
+- Separates personal and business liability | 分离个人和商业责任
+- Protects personal assets | 保护个人资产
+- Professional credibility | 专业信誉
+- Tax benefits | 税收优惠
+
+**Steps** | **步骤**:
+1. [ ] Choose state for LLC formation (home state recommended) | 选择州成立有限责任公司（推荐本州）
+2. [ ] File Articles of Organization ($300-800 depending on state) | 提交组织章程（300-800美元，取决于州）
+3. [ ] Get EIN (Employer Identification Number) from IRS (free, online) | 从IRS获取雇主识别号（免费，在线）
+4. [ ] Create Operating Agreement | 创建运营协议
+5. [ ] Open business bank account | 开设企业银行账户
+6. [ ] Get business insurance (E&O, general liability: $500-1,000/year) | 获得商业保险（500-1,000美元/年）
+7. [ ] Set up Google Alerts for brand monitoring ("4to1", brand names) | 设置Google提醒进行品牌监控
+
+**Services to Consider** | **可考虑的服务**:
+- LegalZoom.com | LegalZoom.com
+- ZenBusiness.com | ZenBusiness.com
+- State website (DIY, cheapest) | 州网站（自己做，最便宜）
+
+**Timeline** | **时间线**: Complete by Day 50 | 第50天前完成
+
+---
 
 ### New Product Development | 新产品开发
 
@@ -1699,6 +1734,9 @@ Send Welcome Email (Immediate)
 - [ ] Budget for Q2 expenses | 为第2季度支出做预算
 - [ ] Identify key hires/contractors | 识别关键雇用/承包商
 - [ ] Block calendar for deep work | 为深度工作阻止日历
+- [ ] **🔒 File China trademark application (if targeting Chinese market)** | **提交中国商标申请（如针对中国市场）**
+- [ ] **🔒 Consider Madrid Protocol for international trademark protection** | **考虑马德里议定书国际商标保护**
+- [ ] **🔒 Review trademark application status (should be in review by now)** | **检查商标申请状态（现在应该在审查中）**
 
 ---
 
@@ -1711,6 +1749,9 @@ Send Welcome Email (Immediate)
 - [ ] Social media: 6 active accounts | 社交媒体：6个活跃账户
 - [ ] Content: 5 blog posts, 30 social posts | 内容：5篇博客文章，30篇社交帖子
 - [ ] Revenue: $200-500 | 收入：200-500美元
+- [ ] **🔒 Copyright notices added to all materials** | **版权声明添加到所有材料**
+- [ ] **🔒 USPTO trademark application filed** | **USPTO商标申请已提交**
+- [ ] **🔒 GitHub licensed with CC BY-NC-SA** | **GitHub已添加CC BY-NC-SA许可**
 
 ## By Day 60 | 第60天前:
 - [ ] Email list: 300-500 subscribers | 电子邮件列表：300-500订阅者
@@ -1719,6 +1760,9 @@ Send Welcome Email (Immediate)
 - [ ] Course/workshop created | 课程/研讨会创建
 - [ ] Automation: 50% of content automated | 自动化：50%内容自动化
 - [ ] Revenue: $1,500-2,500 | 收入：1,500-2,500美元
+- [ ] **🔒 LLC formed** | **有限责任公司已成立**
+- [ ] **🔒 Copyright registration completed** | **版权注册已完成**
+- [ ] **🔒 Brand monitoring active** | **品牌监控活跃**
 
 ## By Day 90 | 第90天前:
 - [ ] Email list: 500-1,000 subscribers | 电子邮件列表：500-1,000订阅者
@@ -1728,6 +1772,8 @@ Send Welcome Email (Immediate)
 - [ ] Automation: 80% of tasks automated | 自动化：80%任务自动化
 - [ ] Revenue: $2,500-5,000 | 收入：2,500-5,000美元
 - [ ] Profitable & sustainable | 盈利且可持续
+- [ ] **🔒 IP protection fully implemented (US + optional international)** | **知识产权保护全面实施（美国+可选国际）**
+- [ ] **🔒 Business insurance in place** | **商业保险到位**
 
 ---
 

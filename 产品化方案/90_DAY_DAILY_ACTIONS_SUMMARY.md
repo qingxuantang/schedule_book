@@ -13,29 +13,35 @@ Quick Reference Guide | 快速参考指南
 
 ## PHASE 1: FOUNDATION | 第一阶段：基础建设 (Days 1-30)
 
-### DAY 1-2: Product SKU Definition | 产品SKU定义
-**Time**: 6 hours | **时间**: 6小时
+### DAY 1-2: Product SKU Definition & IP Foundation | 产品SKU定义与知识产权基础
+**Time**: 8 hours | **时间**: 8小时
 
 **Key Actions** | **关键行动**:
 - Define 4 product tiers (Free, Basic $19, Premium $39, Notion $29) | 定义4个产品层级
 - Write product descriptions (200-300 words each) | 撰写产品描述
 - Create comparison table for all tiers | 创建各层级比较表
 - Set pricing in USD, EUR, CNY | 设置多币种价格
+- **🔒 Add copyright notices (©) to ALL materials** | **添加版权声明到所有材料**
+- **🔒 Search USPTO for "4to1 Method" trademark availability** | **搜索USPTO商标可用性**
+- **🔒 Add Creative Commons CC BY-NC-SA license to GitHub** | **添加知识共享许可到GitHub**
 
-**Deliverable** | **可交付成果**: Product catalog spreadsheet | 产品目录电子表格
+**Deliverable** | **可交付成果**: Product catalog + IP protection started | 产品目录+知识产权保护启动
 
 ---
 
-### DAY 3-4: Website Enhancement | 网站增强
-**Time**: 6 hours | **时间**: 6小时
+### DAY 3-4: Website Enhancement & Legal Pages | 网站增强与法律页面
+**Time**: 8 hours | **时间**: 8小时
 
 **Key Actions** | **关键行动**:
-- Write sales copy for hero section | 撰写首屏销售文案
+- Write sales copy for hero section (feature 4to1 Method™) | 撰写首屏销售文案（突出4to1方法）
 - Create 5 main pages (Home, Products, Free Download, About, Blog) | 创建5个主要页面
 - Integrate Gumroad buy buttons | 集成Gumroad购买按钮
 - Add email capture forms (ConvertKit/Mailchimp) | 添加电子邮件捕获表单
+- **🔒 Create Terms of Service page** | **创建服务条款页面**
+- **🔒 Create Privacy Policy page** | **创建隐私政策页面**
+- **🔒 Add copyright notice to footer** | **在页脚添加版权声明**
 
-**Deliverable** | **可交付成果**: Live functional website | 实时功能性网站
+**Deliverable** | **可交付成果**: Live website with legal protection | 带法律保护的实时网站
 
 ---
 
@@ -104,16 +110,19 @@ Quick Reference Guide | 快速参考指南
 
 ---
 
-### DAY 14: Week 2 Review & Launch Prep | 第2周回顾与启动准备
-**Time**: 6 hours | **时间**: 6小时
+### DAY 14: Week 2 Review, Launch Prep & Trademark Filing | 第2周回顾、启动准备与商标申请
+**Time**: 8 hours | **时间**: 8小时
 
 **Key Actions** | **关键行动**:
 - Complete review checklist (products, website, content, email, social) | 完成回顾清单
 - Create press kit (founder bio, product overview, screenshots) | 创建新闻资料包
 - Write launch email with 30% discount code (LAUNCH30) | 撰写启动邮件附折扣码
 - Set up ProductHunt "Ship" page and write Reddit launch posts | 设置ProductHunt页面并撰写Reddit启动帖子
+- **🔒 FILE TRADEMARK APPLICATION for "4to1 Method"** | **提交"4to1方法"商标申请**
+- **🔒 Register 4to1.com or 4to1planner.com domain** | **注册4to1域名**
+- **🔒 Copyright register complete planner design ($65)** | **版权注册完整规划器设计**
 
-**Deliverable** | **可交付成果**: Launch-ready business with all systems functional | 启动就绪的业务
+**Deliverable** | **可交付成果**: Launch-ready business + IP protection filed | 启动就绪的业务+知识产权保护已申请
 
 ---
 
@@ -219,16 +228,19 @@ Quick Reference Guide | 快速参考指南
 
 ---
 
-### DAY 45: End of Month 1.5 Review | 第1.5个月末回顾
-**Time**: 4 hours | **时间**: 4小时
+### DAY 45: End of Month 1.5 Review & LLC Formation | 第1.5个月末回顾与有限责任公司成立
+**Time**: 6 hours | **时间**: 6小时
 
 **Key Actions** | **关键行动**:
 - Complete comprehensive performance review (financial, growth, content, customer insights) | 完成综合性能回顾
 - Document lessons learned and celebrate wins | 记录学到的教训并庆祝胜利
 - Update goals for Month 2-3 based on data | 根据数据更新第2-3个月目标
 - Refine target customer profile and plan product improvements | 完善目标客户画像并规划产品改进
+- **🔒 Form LLC for liability protection** | **成立有限责任公司以保护责任**
+- **🔒 Check trademark application status** | **检查商标申请状态**
+- **🔒 Set up Google Alerts for "4to1" brand monitoring** | **设置Google提醒监控品牌**
 
-**Mid-Point Check** | **中点检查**: Review progress toward 90-day goals | 回顾朝90天目标的进展
+**Mid-Point Check** | **中点检查**: Review progress toward 90-day goals + IP status | 回顾朝90天目标的进展+知识产权状态
 
 ---
 
@@ -340,21 +352,23 @@ Quick Reference Guide | 快速参考指南
 
 ---
 
-### DAYS 83-87: Affiliate Program Launch | 联盟计划启动
-**Daily Time**: 3 hours | **每日时间**: 3小时
+### DAYS 83-87: Affiliate Program Launch & International IP | 联盟计划启动与国际知识产权
+**Daily Time**: 4 hours | **每日时间**: 4小时
 
 **Key Actions** | **关键行动**:
 - Set up affiliate platform (Gumroad built-in or Rewardful) at 20% commission | 设置20%佣金的联盟平台
 - Create marketing materials (email templates, graphics, banners, swipe copy) | 创建营销材料
 - Email all customers with affiliate invitation | 向所有客户发送联盟邀请
 - Reach out to 20 productivity influencers with personalized offers | 联系20位生产力网红
+- **🔒 File China trademark application (if targeting Chinese market)** | **提交中国商标申请（如针对中国市场）**
+- **🔒 Consider Madrid Protocol for international trademark** | **考虑马德里议定书国际商标**
 
 **Tiers** | **层级**:
 - Existing customers (10-20% sign-up rate) | 现有客户
 - Influencers (30% commission for top performers) | 网红（表现最佳者30%佣金）
 - Bloggers/reviewers | 博主/评论者
 
-**Expected Results** | **预期结果**: 10-15 active affiliates, 15-25% of sales from affiliates | 10-15个活跃联盟，15-25%销售来自联盟
+**Expected Results** | **预期结果**: 10-15 active affiliates, 15-25% of sales from affiliates + international IP filed | 10-15个活跃联盟，15-25%销售来自联盟+国际知识产权已申请
 
 ---
 
@@ -388,6 +402,8 @@ Quick Reference Guide | 快速参考指南
 ✓ 6 social accounts active | 6个活跃社交账户
 ✓ 5 blog posts + 30 social posts | 5篇博客文章+30篇社交帖子
 ✓ Revenue: $200-500 | 收入：200-500美元
+✓ **🔒 Copyright notices added to all materials** | **版权声明添加到所有材料**
+✓ **🔒 Trademark application filed** | **商标申请已提交**
 
 ### By Day 60 | 第60天前:
 ✓ Email list: 300-500 | 邮件列表：300-500
@@ -396,6 +412,8 @@ Quick Reference Guide | 快速参考指南
 ✓ Course created | 课程创建
 ✓ 50% content automated | 50%内容自动化
 ✓ Revenue: $1,500-2,500 | 收入：1,500-2,500美元
+✓ **🔒 LLC formed** | **有限责任公司已成立**
+✓ **🔒 Copyright registered** | **版权已注册**
 
 ### By Day 90 | 第90天前:
 ✓ Email list: 500-1,000 | 邮件列表：500-1,000
@@ -405,6 +423,8 @@ Quick Reference Guide | 快速参考指南
 ✓ 80% tasks automated | 80%任务自动化
 ✓ Revenue: $2,500-5,000 | 收入：2,500-5,000美元
 ✓ Profitable & sustainable | 盈利且可持续
+✓ **🔒 IP protection fully implemented** | **知识产权保护全面实施**
+✓ **🔒 Brand monitoring active** | **品牌监控活跃**
 
 ---
 
@@ -447,7 +467,11 @@ Quick Reference Guide | 快速参考指南
 
 **Total Budget** | **总预算**:
 - Minimal: <$500 for 90 days | 最低：90天<500美元
-- Recommended: $1,000-2,000 | 推荐：1,000-2,000美元
+- **Recommended: $1,500-3,000 (includes IP protection)** | **推荐：1,500-3,000美元（包括知识产权保护）**
+  - Tools & platforms: $500-1,000
+  - Trademark filing: $750-1,500
+  - LLC formation: $300-800
+  - Copyright registration: $65-200
 
 ---
 
